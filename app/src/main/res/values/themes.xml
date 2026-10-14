@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Tonewerk" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ink_bg</item>
+        <item name="android:statusBarColor">@color/ink_bg</item>
+        <item name="android:navigationBarColor">@color/ink_bg</item>
+    </style>
+</resources>
